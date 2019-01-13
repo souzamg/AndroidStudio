@@ -25,6 +25,13 @@ String are defines on res\values\strings.xml
 On code to use a string, R.string.string_name  
 On activity_main.xml to use string "@strong/string_name"  
 
+## Force an orientation
 
+- Open AndroidManifest.xml
+- Add the command on the activity session:
+
+<activity android:name=".FragmentActivity"  
+          **android:screenOrientation="landscape"**  
+          android:theme="@style/AppTheme.SplashScreen">
 
 
