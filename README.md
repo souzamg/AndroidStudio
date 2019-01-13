@@ -1,5 +1,9 @@
 # AndroidStudio
 
+## Training Material
+https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/index.html?index=..%2F..android-training#2
+
+
 Notes:
 ## adding elements to the screen.
 - Open activity_main.xml
